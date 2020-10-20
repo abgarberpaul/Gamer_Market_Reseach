@@ -2,8 +2,8 @@
 Pandas challenge - Heroes of Pymoli selected
 
 
-Code is in Jupyter notebook
+Code is in Jupyter notebook: HeroesOfPymoli_starter-FINAL.ipynb
 
-Referenced data file is in Resources
+Referenced data file is in Resources: purchase_data.csv
 
-Analysis is in word doc
+Analysis is in word doc: Pymoli Anaylsis.docx
