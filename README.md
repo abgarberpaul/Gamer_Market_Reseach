@@ -1,5 +1,5 @@
 # pandas-challenge
-Pandas challenge - Heroes of Pymoli or PyCitySchools
+Pandas challenge - Heroes of Pymoli selected
 
 
 Code is in Jupyter notebook
